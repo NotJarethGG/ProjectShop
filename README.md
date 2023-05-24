@@ -1,3 +1,3 @@
 # ProjectShop
 University work shop project, Visual 2019
-net 5.0
+Asp.net.core Runtime 5.0
