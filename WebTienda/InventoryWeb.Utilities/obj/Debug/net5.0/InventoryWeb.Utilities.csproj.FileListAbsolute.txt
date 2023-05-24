@@ -1,0 +1,107 @@
+C:\InventoryWeb\InventoryWeb.Utilities\bin\Debug\net5.0\InventoryWeb.Utilities.deps.json
+C:\InventoryWeb\InventoryWeb.Utilities\bin\Debug\net5.0\InventoryWeb.Utilities.dll
+C:\InventoryWeb\InventoryWeb.Utilities\bin\Debug\net5.0\ref\InventoryWeb.Utilities.dll
+C:\InventoryWeb\InventoryWeb.Utilities\bin\Debug\net5.0\InventoryWeb.Utilities.pdb
+C:\InventoryWeb\InventoryWeb.Utilities\obj\Debug\net5.0\InventoryWeb.Utilities.csproj.AssemblyReference.cache
+C:\InventoryWeb\InventoryWeb.Utilities\obj\Debug\net5.0\InventoryWeb.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\InventoryWeb\InventoryWeb.Utilities\obj\Debug\net5.0\InventoryWeb.Utilities.AssemblyInfoInputs.cache
+C:\InventoryWeb\InventoryWeb.Utilities\obj\Debug\net5.0\InventoryWeb.Utilities.AssemblyInfo.cs
+C:\InventoryWeb\InventoryWeb.Utilities\obj\Debug\net5.0\InventoryWeb.Utilities.csproj.CoreCompileInputs.cache
+C:\InventoryWeb\InventoryWeb.Utilities\obj\Debug\net5.0\InventoryWeb.Utilities.dll
+C:\InventoryWeb\InventoryWeb.Utilities\obj\Debug\net5.0\ref\InventoryWeb.Utilities.dll
+C:\InventoryWeb\InventoryWeb.Utilities\obj\Debug\net5.0\InventoryWeb.Utilities.pdb
+D:\InventoryWeb\InventoryWeb.Utilities\bin\Debug\net5.0\InventoryWeb.Utilities.deps.json
+D:\InventoryWeb\InventoryWeb.Utilities\bin\Debug\net5.0\InventoryWeb.Utilities.dll
+D:\InventoryWeb\InventoryWeb.Utilities\bin\Debug\net5.0\ref\InventoryWeb.Utilities.dll
+D:\InventoryWeb\InventoryWeb.Utilities\bin\Debug\net5.0\InventoryWeb.Utilities.pdb
+D:\InventoryWeb\InventoryWeb.Utilities\obj\Debug\net5.0\InventoryWeb.Utilities.csproj.AssemblyReference.cache
+D:\InventoryWeb\InventoryWeb.Utilities\obj\Debug\net5.0\InventoryWeb.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\InventoryWeb\InventoryWeb.Utilities\obj\Debug\net5.0\InventoryWeb.Utilities.AssemblyInfoInputs.cache
+D:\InventoryWeb\InventoryWeb.Utilities\obj\Debug\net5.0\InventoryWeb.Utilities.AssemblyInfo.cs
+D:\InventoryWeb\InventoryWeb.Utilities\obj\Debug\net5.0\InventoryWeb.Utilities.csproj.CoreCompileInputs.cache
+D:\InventoryWeb\InventoryWeb.Utilities\obj\Debug\net5.0\InventoryWeb.Utilities.dll
+D:\InventoryWeb\InventoryWeb.Utilities\obj\Debug\net5.0\ref\InventoryWeb.Utilities.dll
+D:\InventoryWeb\InventoryWeb.Utilities\obj\Debug\net5.0\InventoryWeb.Utilities.pdb
+C:\Users\alexa\OneDrive\Desktop\InventoryWeb\InventoryWeb\InventoryWeb.Utilities\bin\Debug\net5.0\InventoryWeb.Utilities.deps.json
+C:\Users\alexa\OneDrive\Desktop\InventoryWeb\InventoryWeb\InventoryWeb.Utilities\bin\Debug\net5.0\InventoryWeb.Utilities.dll
+C:\Users\alexa\OneDrive\Desktop\InventoryWeb\InventoryWeb\InventoryWeb.Utilities\bin\Debug\net5.0\ref\InventoryWeb.Utilities.dll
+C:\Users\alexa\OneDrive\Desktop\InventoryWeb\InventoryWeb\InventoryWeb.Utilities\bin\Debug\net5.0\InventoryWeb.Utilities.pdb
+C:\Users\alexa\OneDrive\Desktop\InventoryWeb\InventoryWeb\InventoryWeb.Utilities\obj\Debug\net5.0\InventoryWeb.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\OneDrive\Desktop\InventoryWeb\InventoryWeb\InventoryWeb.Utilities\obj\Debug\net5.0\InventoryWeb.Utilities.AssemblyInfoInputs.cache
+C:\Users\alexa\OneDrive\Desktop\InventoryWeb\InventoryWeb\InventoryWeb.Utilities\obj\Debug\net5.0\InventoryWeb.Utilities.AssemblyInfo.cs
+C:\Users\alexa\OneDrive\Desktop\InventoryWeb\InventoryWeb\InventoryWeb.Utilities\obj\Debug\net5.0\InventoryWeb.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive\Desktop\InventoryWeb\InventoryWeb\InventoryWeb.Utilities\obj\Debug\net5.0\InventoryWeb.Utilities.dll
+C:\Users\alexa\OneDrive\Desktop\InventoryWeb\InventoryWeb\InventoryWeb.Utilities\obj\Debug\net5.0\ref\InventoryWeb.Utilities.dll
+C:\Users\alexa\OneDrive\Desktop\InventoryWeb\InventoryWeb\InventoryWeb.Utilities\obj\Debug\net5.0\InventoryWeb.Utilities.pdb
+C:\Users\alexa\OneDrive\Desktop\Video10Incompleto - copia (2)\InventoryWeb.Utilities\bin\Debug\net5.0\InventoryWeb.Utilities.deps.json
+C:\Users\alexa\OneDrive\Desktop\Video10Incompleto - copia (2)\InventoryWeb.Utilities\bin\Debug\net5.0\InventoryWeb.Utilities.dll
+C:\Users\alexa\OneDrive\Desktop\Video10Incompleto - copia (2)\InventoryWeb.Utilities\bin\Debug\net5.0\ref\InventoryWeb.Utilities.dll
+C:\Users\alexa\OneDrive\Desktop\Video10Incompleto - copia (2)\InventoryWeb.Utilities\bin\Debug\net5.0\InventoryWeb.Utilities.pdb
+C:\Users\alexa\OneDrive\Desktop\Video10Incompleto - copia (2)\InventoryWeb.Utilities\obj\Debug\net5.0\InventoryWeb.Utilities.csproj.AssemblyReference.cache
+C:\Users\alexa\OneDrive\Desktop\Video10Incompleto - copia (2)\InventoryWeb.Utilities\obj\Debug\net5.0\InventoryWeb.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\OneDrive\Desktop\Video10Incompleto - copia (2)\InventoryWeb.Utilities\obj\Debug\net5.0\InventoryWeb.Utilities.AssemblyInfoInputs.cache
+C:\Users\alexa\OneDrive\Desktop\Video10Incompleto - copia (2)\InventoryWeb.Utilities\obj\Debug\net5.0\InventoryWeb.Utilities.AssemblyInfo.cs
+C:\Users\alexa\OneDrive\Desktop\Video10Incompleto - copia (2)\InventoryWeb.Utilities\obj\Debug\net5.0\InventoryWeb.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive\Desktop\Video10Incompleto - copia (2)\InventoryWeb.Utilities\obj\Debug\net5.0\InventoryWeb.Utilities.dll
+C:\Users\alexa\OneDrive\Desktop\Video10Incompleto - copia (2)\InventoryWeb.Utilities\obj\Debug\net5.0\ref\InventoryWeb.Utilities.dll
+C:\Users\alexa\OneDrive\Desktop\Video10Incompleto - copia (2)\InventoryWeb.Utilities\obj\Debug\net5.0\InventoryWeb.Utilities.pdb
+C:\Users\alexa\OneDrive\Desktop\Video11Completo - copia\InventoryWeb.Utilities\bin\Debug\net5.0\InventoryWeb.Utilities.deps.json
+C:\Users\alexa\OneDrive\Desktop\Video11Completo - copia\InventoryWeb.Utilities\bin\Debug\net5.0\InventoryWeb.Utilities.dll
+C:\Users\alexa\OneDrive\Desktop\Video11Completo - copia\InventoryWeb.Utilities\bin\Debug\net5.0\ref\InventoryWeb.Utilities.dll
+C:\Users\alexa\OneDrive\Desktop\Video11Completo - copia\InventoryWeb.Utilities\bin\Debug\net5.0\InventoryWeb.Utilities.pdb
+C:\Users\alexa\OneDrive\Desktop\Video11Completo - copia\InventoryWeb.Utilities\obj\Debug\net5.0\InventoryWeb.Utilities.csproj.AssemblyReference.cache
+C:\Users\alexa\OneDrive\Desktop\Video11Completo - copia\InventoryWeb.Utilities\obj\Debug\net5.0\InventoryWeb.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\OneDrive\Desktop\Video11Completo - copia\InventoryWeb.Utilities\obj\Debug\net5.0\InventoryWeb.Utilities.AssemblyInfoInputs.cache
+C:\Users\alexa\OneDrive\Desktop\Video11Completo - copia\InventoryWeb.Utilities\obj\Debug\net5.0\InventoryWeb.Utilities.AssemblyInfo.cs
+C:\Users\alexa\OneDrive\Desktop\Video11Completo - copia\InventoryWeb.Utilities\obj\Debug\net5.0\InventoryWeb.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive\Desktop\Video11Completo - copia\InventoryWeb.Utilities\obj\Debug\net5.0\InventoryWeb.Utilities.dll
+C:\Users\alexa\OneDrive\Desktop\Video11Completo - copia\InventoryWeb.Utilities\obj\Debug\net5.0\ref\InventoryWeb.Utilities.dll
+C:\Users\alexa\OneDrive\Desktop\Video11Completo - copia\InventoryWeb.Utilities\obj\Debug\net5.0\InventoryWeb.Utilities.pdb
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE - copia\InventoryWeb.Utilities\bin\Debug\net5.0\InventoryWeb.Utilities.deps.json
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE - copia\InventoryWeb.Utilities\bin\Debug\net5.0\InventoryWeb.Utilities.dll
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE - copia\InventoryWeb.Utilities\bin\Debug\net5.0\ref\InventoryWeb.Utilities.dll
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE - copia\InventoryWeb.Utilities\bin\Debug\net5.0\InventoryWeb.Utilities.pdb
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE - copia\InventoryWeb.Utilities\obj\Debug\net5.0\InventoryWeb.Utilities.csproj.AssemblyReference.cache
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE - copia\InventoryWeb.Utilities\obj\Debug\net5.0\InventoryWeb.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE - copia\InventoryWeb.Utilities\obj\Debug\net5.0\InventoryWeb.Utilities.AssemblyInfoInputs.cache
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE - copia\InventoryWeb.Utilities\obj\Debug\net5.0\InventoryWeb.Utilities.AssemblyInfo.cs
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE - copia\InventoryWeb.Utilities\obj\Debug\net5.0\InventoryWeb.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE - copia\InventoryWeb.Utilities\obj\Debug\net5.0\InventoryWeb.Utilities.dll
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE - copia\InventoryWeb.Utilities\obj\Debug\net5.0\ref\InventoryWeb.Utilities.dll
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE - copia\InventoryWeb.Utilities\obj\Debug\net5.0\InventoryWeb.Utilities.pdb
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE Funcional\InventoryWeb.Utilities\bin\Debug\net5.0\InventoryWeb.Utilities.deps.json
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE Funcional\InventoryWeb.Utilities\bin\Debug\net5.0\InventoryWeb.Utilities.dll
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE Funcional\InventoryWeb.Utilities\bin\Debug\net5.0\ref\InventoryWeb.Utilities.dll
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE Funcional\InventoryWeb.Utilities\bin\Debug\net5.0\InventoryWeb.Utilities.pdb
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE Funcional\InventoryWeb.Utilities\obj\Debug\net5.0\InventoryWeb.Utilities.csproj.AssemblyReference.cache
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE Funcional\InventoryWeb.Utilities\obj\Debug\net5.0\InventoryWeb.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE Funcional\InventoryWeb.Utilities\obj\Debug\net5.0\InventoryWeb.Utilities.AssemblyInfoInputs.cache
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE Funcional\InventoryWeb.Utilities\obj\Debug\net5.0\InventoryWeb.Utilities.AssemblyInfo.cs
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE Funcional\InventoryWeb.Utilities\obj\Debug\net5.0\InventoryWeb.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE Funcional\InventoryWeb.Utilities\obj\Debug\net5.0\InventoryWeb.Utilities.dll
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE Funcional\InventoryWeb.Utilities\obj\Debug\net5.0\ref\InventoryWeb.Utilities.dll
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE Funcional\InventoryWeb.Utilities\obj\Debug\net5.0\InventoryWeb.Utilities.pdb
+C:\Users\alexa\OneDrive\Desktop\Video33Listo - copia - copia - copia\InventoryWeb.Utilities\bin\Debug\net5.0\InventoryWeb.Utilities.deps.json
+C:\Users\alexa\OneDrive\Desktop\Video33Listo - copia - copia - copia\InventoryWeb.Utilities\bin\Debug\net5.0\InventoryWeb.Utilities.dll
+C:\Users\alexa\OneDrive\Desktop\Video33Listo - copia - copia - copia\InventoryWeb.Utilities\bin\Debug\net5.0\ref\InventoryWeb.Utilities.dll
+C:\Users\alexa\OneDrive\Desktop\Video33Listo - copia - copia - copia\InventoryWeb.Utilities\bin\Debug\net5.0\InventoryWeb.Utilities.pdb
+C:\Users\alexa\OneDrive\Desktop\Video33Listo - copia - copia - copia\InventoryWeb.Utilities\obj\Debug\net5.0\InventoryWeb.Utilities.csproj.AssemblyReference.cache
+C:\Users\alexa\OneDrive\Desktop\Video33Listo - copia - copia - copia\InventoryWeb.Utilities\obj\Debug\net5.0\InventoryWeb.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\OneDrive\Desktop\Video33Listo - copia - copia - copia\InventoryWeb.Utilities\obj\Debug\net5.0\InventoryWeb.Utilities.AssemblyInfoInputs.cache
+C:\Users\alexa\OneDrive\Desktop\Video33Listo - copia - copia - copia\InventoryWeb.Utilities\obj\Debug\net5.0\InventoryWeb.Utilities.AssemblyInfo.cs
+C:\Users\alexa\OneDrive\Desktop\Video33Listo - copia - copia - copia\InventoryWeb.Utilities\obj\Debug\net5.0\InventoryWeb.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive\Desktop\Video33Listo - copia - copia - copia\InventoryWeb.Utilities\obj\Debug\net5.0\InventoryWeb.Utilities.dll
+C:\Users\alexa\OneDrive\Desktop\Video33Listo - copia - copia - copia\InventoryWeb.Utilities\obj\Debug\net5.0\ref\InventoryWeb.Utilities.dll
+C:\Users\alexa\OneDrive\Desktop\Video33Listo - copia - copia - copia\InventoryWeb.Utilities\obj\Debug\net5.0\InventoryWeb.Utilities.pdb
+D:\UNA\Segundo Ciclo 2022\Programacion III\El Mas Funcional - copia (2)\El Mas Funcional - copia (2)\InventoryWeb.Utilities\bin\Debug\net5.0\InventoryWeb.Utilities.deps.json
+D:\UNA\Segundo Ciclo 2022\Programacion III\El Mas Funcional - copia (2)\El Mas Funcional - copia (2)\InventoryWeb.Utilities\bin\Debug\net5.0\InventoryWeb.Utilities.dll
+D:\UNA\Segundo Ciclo 2022\Programacion III\El Mas Funcional - copia (2)\El Mas Funcional - copia (2)\InventoryWeb.Utilities\bin\Debug\net5.0\ref\InventoryWeb.Utilities.dll
+D:\UNA\Segundo Ciclo 2022\Programacion III\El Mas Funcional - copia (2)\El Mas Funcional - copia (2)\InventoryWeb.Utilities\bin\Debug\net5.0\InventoryWeb.Utilities.pdb
+D:\UNA\Segundo Ciclo 2022\Programacion III\El Mas Funcional - copia (2)\El Mas Funcional - copia (2)\InventoryWeb.Utilities\obj\Debug\net5.0\InventoryWeb.Utilities.csproj.AssemblyReference.cache
+D:\UNA\Segundo Ciclo 2022\Programacion III\El Mas Funcional - copia (2)\El Mas Funcional - copia (2)\InventoryWeb.Utilities\obj\Debug\net5.0\InventoryWeb.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNA\Segundo Ciclo 2022\Programacion III\El Mas Funcional - copia (2)\El Mas Funcional - copia (2)\InventoryWeb.Utilities\obj\Debug\net5.0\InventoryWeb.Utilities.AssemblyInfoInputs.cache
+D:\UNA\Segundo Ciclo 2022\Programacion III\El Mas Funcional - copia (2)\El Mas Funcional - copia (2)\InventoryWeb.Utilities\obj\Debug\net5.0\InventoryWeb.Utilities.AssemblyInfo.cs
+D:\UNA\Segundo Ciclo 2022\Programacion III\El Mas Funcional - copia (2)\El Mas Funcional - copia (2)\InventoryWeb.Utilities\obj\Debug\net5.0\InventoryWeb.Utilities.csproj.CoreCompileInputs.cache
+D:\UNA\Segundo Ciclo 2022\Programacion III\El Mas Funcional - copia (2)\El Mas Funcional - copia (2)\InventoryWeb.Utilities\obj\Debug\net5.0\InventoryWeb.Utilities.dll
+D:\UNA\Segundo Ciclo 2022\Programacion III\El Mas Funcional - copia (2)\El Mas Funcional - copia (2)\InventoryWeb.Utilities\obj\Debug\net5.0\ref\InventoryWeb.Utilities.dll
+D:\UNA\Segundo Ciclo 2022\Programacion III\El Mas Funcional - copia (2)\El Mas Funcional - copia (2)\InventoryWeb.Utilities\obj\Debug\net5.0\InventoryWeb.Utilities.pdb

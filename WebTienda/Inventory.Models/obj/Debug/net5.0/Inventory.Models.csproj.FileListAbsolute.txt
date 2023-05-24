@@ -1,0 +1,118 @@
+C:\Users\alexa\OneDrive\Desktop\Nueva carpeta (2)\Inventory.Models\bin\Debug\net5.0\Inventory.Models.deps.json
+C:\Users\alexa\OneDrive\Desktop\Nueva carpeta (2)\Inventory.Models\bin\Debug\net5.0\Inventory.Models.runtimeconfig.json
+C:\Users\alexa\OneDrive\Desktop\Nueva carpeta (2)\Inventory.Models\bin\Debug\net5.0\Inventory.Models.runtimeconfig.dev.json
+C:\Users\alexa\OneDrive\Desktop\Nueva carpeta (2)\Inventory.Models\bin\Debug\net5.0\Inventory.Models.dll
+C:\Users\alexa\OneDrive\Desktop\Nueva carpeta (2)\Inventory.Models\bin\Debug\net5.0\ref\Inventory.Models.dll
+C:\Users\alexa\OneDrive\Desktop\Nueva carpeta (2)\Inventory.Models\bin\Debug\net5.0\Inventory.Models.pdb
+C:\Users\alexa\OneDrive\Desktop\Nueva carpeta (2)\Inventory.Models\obj\Debug\net5.0\Inventory.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\OneDrive\Desktop\Nueva carpeta (2)\Inventory.Models\obj\Debug\net5.0\Inventory.Models.AssemblyInfoInputs.cache
+C:\Users\alexa\OneDrive\Desktop\Nueva carpeta (2)\Inventory.Models\obj\Debug\net5.0\Inventory.Models.AssemblyInfo.cs
+C:\Users\alexa\OneDrive\Desktop\Nueva carpeta (2)\Inventory.Models\obj\Debug\net5.0\Inventory.Models.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive\Desktop\Nueva carpeta (2)\Inventory.Models\obj\Debug\net5.0\Inventory.Models.dll
+C:\Users\alexa\OneDrive\Desktop\Nueva carpeta (2)\Inventory.Models\obj\Debug\net5.0\ref\Inventory.Models.dll
+C:\Users\alexa\OneDrive\Desktop\Nueva carpeta (2)\Inventory.Models\obj\Debug\net5.0\Inventory.Models.pdb
+C:\Users\alexa\OneDrive\Desktop\Nueva carpeta (2)\Inventory.Models\obj\Debug\net5.0\Inventory.Models.genruntimeconfig.cache
+C:\Users\alexa\OneDrive\Desktop\Video10Incompleto - copia (2)\Inventory.Models\bin\Debug\net5.0\Inventory.Models.deps.json
+C:\Users\alexa\OneDrive\Desktop\Video10Incompleto - copia (2)\Inventory.Models\bin\Debug\net5.0\Inventory.Models.runtimeconfig.json
+C:\Users\alexa\OneDrive\Desktop\Video10Incompleto - copia (2)\Inventory.Models\bin\Debug\net5.0\Inventory.Models.runtimeconfig.dev.json
+C:\Users\alexa\OneDrive\Desktop\Video10Incompleto - copia (2)\Inventory.Models\bin\Debug\net5.0\Inventory.Models.dll
+C:\Users\alexa\OneDrive\Desktop\Video10Incompleto - copia (2)\Inventory.Models\bin\Debug\net5.0\ref\Inventory.Models.dll
+C:\Users\alexa\OneDrive\Desktop\Video10Incompleto - copia (2)\Inventory.Models\bin\Debug\net5.0\Inventory.Models.pdb
+C:\Users\alexa\OneDrive\Desktop\Video10Incompleto - copia (2)\Inventory.Models\obj\Debug\net5.0\Inventory.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\OneDrive\Desktop\Video10Incompleto - copia (2)\Inventory.Models\obj\Debug\net5.0\Inventory.Models.AssemblyInfoInputs.cache
+C:\Users\alexa\OneDrive\Desktop\Video10Incompleto - copia (2)\Inventory.Models\obj\Debug\net5.0\Inventory.Models.AssemblyInfo.cs
+C:\Users\alexa\OneDrive\Desktop\Video10Incompleto - copia (2)\Inventory.Models\obj\Debug\net5.0\Inventory.Models.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive\Desktop\Video10Incompleto - copia (2)\Inventory.Models\obj\Debug\net5.0\Inventory.Models.dll
+C:\Users\alexa\OneDrive\Desktop\Video10Incompleto - copia (2)\Inventory.Models\obj\Debug\net5.0\ref\Inventory.Models.dll
+C:\Users\alexa\OneDrive\Desktop\Video10Incompleto - copia (2)\Inventory.Models\obj\Debug\net5.0\Inventory.Models.pdb
+C:\Users\alexa\OneDrive\Desktop\Video10Incompleto - copia (2)\Inventory.Models\obj\Debug\net5.0\Inventory.Models.genruntimeconfig.cache
+C:\Users\alexa\OneDrive\Desktop\Video11Completo - copia\Inventory.Models\bin\Debug\net5.0\Inventory.Models.deps.json
+C:\Users\alexa\OneDrive\Desktop\Video11Completo - copia\Inventory.Models\bin\Debug\net5.0\Inventory.Models.runtimeconfig.json
+C:\Users\alexa\OneDrive\Desktop\Video11Completo - copia\Inventory.Models\bin\Debug\net5.0\Inventory.Models.runtimeconfig.dev.json
+C:\Users\alexa\OneDrive\Desktop\Video11Completo - copia\Inventory.Models\bin\Debug\net5.0\Inventory.Models.dll
+C:\Users\alexa\OneDrive\Desktop\Video11Completo - copia\Inventory.Models\bin\Debug\net5.0\ref\Inventory.Models.dll
+C:\Users\alexa\OneDrive\Desktop\Video11Completo - copia\Inventory.Models\bin\Debug\net5.0\Inventory.Models.pdb
+C:\Users\alexa\OneDrive\Desktop\Video11Completo - copia\Inventory.Models\obj\Debug\net5.0\Inventory.Models.csproj.AssemblyReference.cache
+C:\Users\alexa\OneDrive\Desktop\Video11Completo - copia\Inventory.Models\obj\Debug\net5.0\Inventory.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\OneDrive\Desktop\Video11Completo - copia\Inventory.Models\obj\Debug\net5.0\Inventory.Models.AssemblyInfoInputs.cache
+C:\Users\alexa\OneDrive\Desktop\Video11Completo - copia\Inventory.Models\obj\Debug\net5.0\Inventory.Models.AssemblyInfo.cs
+C:\Users\alexa\OneDrive\Desktop\Video11Completo - copia\Inventory.Models\obj\Debug\net5.0\Inventory.Models.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive\Desktop\Video11Completo - copia\Inventory.Models\obj\Debug\net5.0\Inventory.Models.dll
+C:\Users\alexa\OneDrive\Desktop\Video11Completo - copia\Inventory.Models\obj\Debug\net5.0\ref\Inventory.Models.dll
+C:\Users\alexa\OneDrive\Desktop\Video11Completo - copia\Inventory.Models\obj\Debug\net5.0\Inventory.Models.pdb
+C:\Users\alexa\OneDrive\Desktop\Video11Completo - copia\Inventory.Models\obj\Debug\net5.0\Inventory.Models.genruntimeconfig.cache
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE\Inventory.Models\bin\Debug\net5.0\Inventory.Models.deps.json
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE\Inventory.Models\bin\Debug\net5.0\Inventory.Models.runtimeconfig.json
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE\Inventory.Models\bin\Debug\net5.0\Inventory.Models.runtimeconfig.dev.json
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE\Inventory.Models\bin\Debug\net5.0\Inventory.Models.dll
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE\Inventory.Models\bin\Debug\net5.0\ref\Inventory.Models.dll
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE\Inventory.Models\bin\Debug\net5.0\Inventory.Models.pdb
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE\Inventory.Models\obj\Debug\net5.0\Inventory.Models.csproj.AssemblyReference.cache
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE\Inventory.Models\obj\Debug\net5.0\Inventory.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE\Inventory.Models\obj\Debug\net5.0\Inventory.Models.AssemblyInfoInputs.cache
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE\Inventory.Models\obj\Debug\net5.0\Inventory.Models.AssemblyInfo.cs
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE\Inventory.Models\obj\Debug\net5.0\Inventory.Models.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE\Inventory.Models\obj\Debug\net5.0\Inventory.Models.dll
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE\Inventory.Models\obj\Debug\net5.0\ref\Inventory.Models.dll
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE\Inventory.Models\obj\Debug\net5.0\Inventory.Models.pdb
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE\Inventory.Models\obj\Debug\net5.0\Inventory.Models.genruntimeconfig.cache
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE - copia\Inventory.Models\bin\Debug\net5.0\Inventory.Models.deps.json
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE - copia\Inventory.Models\bin\Debug\net5.0\Inventory.Models.runtimeconfig.json
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE - copia\Inventory.Models\bin\Debug\net5.0\Inventory.Models.runtimeconfig.dev.json
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE - copia\Inventory.Models\bin\Debug\net5.0\Inventory.Models.dll
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE - copia\Inventory.Models\bin\Debug\net5.0\ref\Inventory.Models.dll
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE - copia\Inventory.Models\bin\Debug\net5.0\Inventory.Models.pdb
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE - copia\Inventory.Models\obj\Debug\net5.0\Inventory.Models.csproj.AssemblyReference.cache
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE - copia\Inventory.Models\obj\Debug\net5.0\Inventory.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE - copia\Inventory.Models\obj\Debug\net5.0\Inventory.Models.AssemblyInfoInputs.cache
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE - copia\Inventory.Models\obj\Debug\net5.0\Inventory.Models.AssemblyInfo.cs
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE - copia\Inventory.Models\obj\Debug\net5.0\Inventory.Models.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE - copia\Inventory.Models\obj\Debug\net5.0\Inventory.Models.dll
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE - copia\Inventory.Models\obj\Debug\net5.0\ref\Inventory.Models.dll
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE - copia\Inventory.Models\obj\Debug\net5.0\Inventory.Models.pdb
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE - copia\Inventory.Models\obj\Debug\net5.0\Inventory.Models.genruntimeconfig.cache
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE Funcional\Inventory.Models\bin\Debug\net5.0\Inventory.Models.deps.json
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE Funcional\Inventory.Models\bin\Debug\net5.0\Inventory.Models.runtimeconfig.json
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE Funcional\Inventory.Models\bin\Debug\net5.0\Inventory.Models.runtimeconfig.dev.json
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE Funcional\Inventory.Models\bin\Debug\net5.0\Inventory.Models.dll
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE Funcional\Inventory.Models\bin\Debug\net5.0\ref\Inventory.Models.dll
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE Funcional\Inventory.Models\bin\Debug\net5.0\Inventory.Models.pdb
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE Funcional\Inventory.Models\obj\Debug\net5.0\Inventory.Models.csproj.AssemblyReference.cache
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE Funcional\Inventory.Models\obj\Debug\net5.0\Inventory.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE Funcional\Inventory.Models\obj\Debug\net5.0\Inventory.Models.AssemblyInfoInputs.cache
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE Funcional\Inventory.Models\obj\Debug\net5.0\Inventory.Models.AssemblyInfo.cs
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE Funcional\Inventory.Models\obj\Debug\net5.0\Inventory.Models.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE Funcional\Inventory.Models\obj\Debug\net5.0\Inventory.Models.dll
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE Funcional\Inventory.Models\obj\Debug\net5.0\ref\Inventory.Models.dll
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE Funcional\Inventory.Models\obj\Debug\net5.0\Inventory.Models.pdb
+C:\Users\alexa\OneDrive\Desktop\MEJOR TRABAJO EN ESTE Funcional\Inventory.Models\obj\Debug\net5.0\Inventory.Models.genruntimeconfig.cache
+C:\Users\alexa\OneDrive\Desktop\Video33Listo - copia - copia - copia\Inventory.Models\bin\Debug\net5.0\Inventory.Models.deps.json
+C:\Users\alexa\OneDrive\Desktop\Video33Listo - copia - copia - copia\Inventory.Models\bin\Debug\net5.0\Inventory.Models.runtimeconfig.json
+C:\Users\alexa\OneDrive\Desktop\Video33Listo - copia - copia - copia\Inventory.Models\bin\Debug\net5.0\Inventory.Models.runtimeconfig.dev.json
+C:\Users\alexa\OneDrive\Desktop\Video33Listo - copia - copia - copia\Inventory.Models\bin\Debug\net5.0\Inventory.Models.dll
+C:\Users\alexa\OneDrive\Desktop\Video33Listo - copia - copia - copia\Inventory.Models\bin\Debug\net5.0\ref\Inventory.Models.dll
+C:\Users\alexa\OneDrive\Desktop\Video33Listo - copia - copia - copia\Inventory.Models\bin\Debug\net5.0\Inventory.Models.pdb
+C:\Users\alexa\OneDrive\Desktop\Video33Listo - copia - copia - copia\Inventory.Models\obj\Debug\net5.0\Inventory.Models.csproj.AssemblyReference.cache
+C:\Users\alexa\OneDrive\Desktop\Video33Listo - copia - copia - copia\Inventory.Models\obj\Debug\net5.0\Inventory.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\OneDrive\Desktop\Video33Listo - copia - copia - copia\Inventory.Models\obj\Debug\net5.0\Inventory.Models.AssemblyInfoInputs.cache
+C:\Users\alexa\OneDrive\Desktop\Video33Listo - copia - copia - copia\Inventory.Models\obj\Debug\net5.0\Inventory.Models.AssemblyInfo.cs
+C:\Users\alexa\OneDrive\Desktop\Video33Listo - copia - copia - copia\Inventory.Models\obj\Debug\net5.0\Inventory.Models.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive\Desktop\Video33Listo - copia - copia - copia\Inventory.Models\obj\Debug\net5.0\Inventory.Models.dll
+C:\Users\alexa\OneDrive\Desktop\Video33Listo - copia - copia - copia\Inventory.Models\obj\Debug\net5.0\ref\Inventory.Models.dll
+C:\Users\alexa\OneDrive\Desktop\Video33Listo - copia - copia - copia\Inventory.Models\obj\Debug\net5.0\Inventory.Models.pdb
+C:\Users\alexa\OneDrive\Desktop\Video33Listo - copia - copia - copia\Inventory.Models\obj\Debug\net5.0\Inventory.Models.genruntimeconfig.cache
+D:\UNA\Segundo Ciclo 2022\Programacion III\El Mas Funcional - copia (2)\El Mas Funcional - copia (2)\Inventory.Models\bin\Debug\net5.0\Inventory.Models.deps.json
+D:\UNA\Segundo Ciclo 2022\Programacion III\El Mas Funcional - copia (2)\El Mas Funcional - copia (2)\Inventory.Models\bin\Debug\net5.0\Inventory.Models.runtimeconfig.json
+D:\UNA\Segundo Ciclo 2022\Programacion III\El Mas Funcional - copia (2)\El Mas Funcional - copia (2)\Inventory.Models\bin\Debug\net5.0\Inventory.Models.runtimeconfig.dev.json
+D:\UNA\Segundo Ciclo 2022\Programacion III\El Mas Funcional - copia (2)\El Mas Funcional - copia (2)\Inventory.Models\bin\Debug\net5.0\Inventory.Models.dll
+D:\UNA\Segundo Ciclo 2022\Programacion III\El Mas Funcional - copia (2)\El Mas Funcional - copia (2)\Inventory.Models\bin\Debug\net5.0\ref\Inventory.Models.dll
+D:\UNA\Segundo Ciclo 2022\Programacion III\El Mas Funcional - copia (2)\El Mas Funcional - copia (2)\Inventory.Models\bin\Debug\net5.0\Inventory.Models.pdb
+D:\UNA\Segundo Ciclo 2022\Programacion III\El Mas Funcional - copia (2)\El Mas Funcional - copia (2)\Inventory.Models\obj\Debug\net5.0\Inventory.Models.csproj.AssemblyReference.cache
+D:\UNA\Segundo Ciclo 2022\Programacion III\El Mas Funcional - copia (2)\El Mas Funcional - copia (2)\Inventory.Models\obj\Debug\net5.0\Inventory.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNA\Segundo Ciclo 2022\Programacion III\El Mas Funcional - copia (2)\El Mas Funcional - copia (2)\Inventory.Models\obj\Debug\net5.0\Inventory.Models.AssemblyInfoInputs.cache
+D:\UNA\Segundo Ciclo 2022\Programacion III\El Mas Funcional - copia (2)\El Mas Funcional - copia (2)\Inventory.Models\obj\Debug\net5.0\Inventory.Models.AssemblyInfo.cs
+D:\UNA\Segundo Ciclo 2022\Programacion III\El Mas Funcional - copia (2)\El Mas Funcional - copia (2)\Inventory.Models\obj\Debug\net5.0\Inventory.Models.csproj.CoreCompileInputs.cache
+D:\UNA\Segundo Ciclo 2022\Programacion III\El Mas Funcional - copia (2)\El Mas Funcional - copia (2)\Inventory.Models\obj\Debug\net5.0\Inventory.Models.dll
+D:\UNA\Segundo Ciclo 2022\Programacion III\El Mas Funcional - copia (2)\El Mas Funcional - copia (2)\Inventory.Models\obj\Debug\net5.0\ref\Inventory.Models.dll
+D:\UNA\Segundo Ciclo 2022\Programacion III\El Mas Funcional - copia (2)\El Mas Funcional - copia (2)\Inventory.Models\obj\Debug\net5.0\Inventory.Models.pdb
+D:\UNA\Segundo Ciclo 2022\Programacion III\El Mas Funcional - copia (2)\El Mas Funcional - copia (2)\Inventory.Models\obj\Debug\net5.0\Inventory.Models.genruntimeconfig.cache

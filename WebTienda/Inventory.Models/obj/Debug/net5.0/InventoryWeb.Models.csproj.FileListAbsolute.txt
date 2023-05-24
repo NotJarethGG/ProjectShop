@@ -1,0 +1,15 @@
+D:\UNA\Segundo Ciclo 2022\Programacion III\El Mas Funcional - copia (2)\El Mas Funcional - copia (2)\Inventory.Models\bin\Debug\net5.0\InventoryWeb.Models.deps.json
+D:\UNA\Segundo Ciclo 2022\Programacion III\El Mas Funcional - copia (2)\El Mas Funcional - copia (2)\Inventory.Models\bin\Debug\net5.0\InventoryWeb.Models.runtimeconfig.json
+D:\UNA\Segundo Ciclo 2022\Programacion III\El Mas Funcional - copia (2)\El Mas Funcional - copia (2)\Inventory.Models\bin\Debug\net5.0\InventoryWeb.Models.runtimeconfig.dev.json
+D:\UNA\Segundo Ciclo 2022\Programacion III\El Mas Funcional - copia (2)\El Mas Funcional - copia (2)\Inventory.Models\bin\Debug\net5.0\InventoryWeb.Models.dll
+D:\UNA\Segundo Ciclo 2022\Programacion III\El Mas Funcional - copia (2)\El Mas Funcional - copia (2)\Inventory.Models\bin\Debug\net5.0\ref\InventoryWeb.Models.dll
+D:\UNA\Segundo Ciclo 2022\Programacion III\El Mas Funcional - copia (2)\El Mas Funcional - copia (2)\Inventory.Models\bin\Debug\net5.0\InventoryWeb.Models.pdb
+D:\UNA\Segundo Ciclo 2022\Programacion III\El Mas Funcional - copia (2)\El Mas Funcional - copia (2)\Inventory.Models\obj\Debug\net5.0\InventoryWeb.Models.csproj.AssemblyReference.cache
+D:\UNA\Segundo Ciclo 2022\Programacion III\El Mas Funcional - copia (2)\El Mas Funcional - copia (2)\Inventory.Models\obj\Debug\net5.0\InventoryWeb.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNA\Segundo Ciclo 2022\Programacion III\El Mas Funcional - copia (2)\El Mas Funcional - copia (2)\Inventory.Models\obj\Debug\net5.0\InventoryWeb.Models.AssemblyInfoInputs.cache
+D:\UNA\Segundo Ciclo 2022\Programacion III\El Mas Funcional - copia (2)\El Mas Funcional - copia (2)\Inventory.Models\obj\Debug\net5.0\InventoryWeb.Models.AssemblyInfo.cs
+D:\UNA\Segundo Ciclo 2022\Programacion III\El Mas Funcional - copia (2)\El Mas Funcional - copia (2)\Inventory.Models\obj\Debug\net5.0\InventoryWeb.Models.csproj.CoreCompileInputs.cache
+D:\UNA\Segundo Ciclo 2022\Programacion III\El Mas Funcional - copia (2)\El Mas Funcional - copia (2)\Inventory.Models\obj\Debug\net5.0\InventoryWeb.Models.dll
+D:\UNA\Segundo Ciclo 2022\Programacion III\El Mas Funcional - copia (2)\El Mas Funcional - copia (2)\Inventory.Models\obj\Debug\net5.0\ref\InventoryWeb.Models.dll
+D:\UNA\Segundo Ciclo 2022\Programacion III\El Mas Funcional - copia (2)\El Mas Funcional - copia (2)\Inventory.Models\obj\Debug\net5.0\InventoryWeb.Models.pdb
+D:\UNA\Segundo Ciclo 2022\Programacion III\El Mas Funcional - copia (2)\El Mas Funcional - copia (2)\Inventory.Models\obj\Debug\net5.0\InventoryWeb.Models.genruntimeconfig.cache

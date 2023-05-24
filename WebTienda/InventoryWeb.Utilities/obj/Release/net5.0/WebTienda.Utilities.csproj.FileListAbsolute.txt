@@ -1,0 +1,12 @@
+D:\UNA\Segundo Ciclo 2022\Programacion III\Proyecto Final Tienda\WebTienda\InventoryWeb.Utilities\bin\Release\net5.0\WebTienda.Utilities.deps.json
+D:\UNA\Segundo Ciclo 2022\Programacion III\Proyecto Final Tienda\WebTienda\InventoryWeb.Utilities\bin\Release\net5.0\WebTienda.Utilities.dll
+D:\UNA\Segundo Ciclo 2022\Programacion III\Proyecto Final Tienda\WebTienda\InventoryWeb.Utilities\bin\Release\net5.0\ref\WebTienda.Utilities.dll
+D:\UNA\Segundo Ciclo 2022\Programacion III\Proyecto Final Tienda\WebTienda\InventoryWeb.Utilities\bin\Release\net5.0\WebTienda.Utilities.pdb
+D:\UNA\Segundo Ciclo 2022\Programacion III\Proyecto Final Tienda\WebTienda\InventoryWeb.Utilities\obj\Release\net5.0\WebTienda.Utilities.csproj.AssemblyReference.cache
+D:\UNA\Segundo Ciclo 2022\Programacion III\Proyecto Final Tienda\WebTienda\InventoryWeb.Utilities\obj\Release\net5.0\WebTienda.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNA\Segundo Ciclo 2022\Programacion III\Proyecto Final Tienda\WebTienda\InventoryWeb.Utilities\obj\Release\net5.0\WebTienda.Utilities.AssemblyInfoInputs.cache
+D:\UNA\Segundo Ciclo 2022\Programacion III\Proyecto Final Tienda\WebTienda\InventoryWeb.Utilities\obj\Release\net5.0\WebTienda.Utilities.AssemblyInfo.cs
+D:\UNA\Segundo Ciclo 2022\Programacion III\Proyecto Final Tienda\WebTienda\InventoryWeb.Utilities\obj\Release\net5.0\WebTienda.Utilities.csproj.CoreCompileInputs.cache
+D:\UNA\Segundo Ciclo 2022\Programacion III\Proyecto Final Tienda\WebTienda\InventoryWeb.Utilities\obj\Release\net5.0\WebTienda.Utilities.dll
+D:\UNA\Segundo Ciclo 2022\Programacion III\Proyecto Final Tienda\WebTienda\InventoryWeb.Utilities\obj\Release\net5.0\ref\WebTienda.Utilities.dll
+D:\UNA\Segundo Ciclo 2022\Programacion III\Proyecto Final Tienda\WebTienda\InventoryWeb.Utilities\obj\Release\net5.0\WebTienda.Utilities.pdb

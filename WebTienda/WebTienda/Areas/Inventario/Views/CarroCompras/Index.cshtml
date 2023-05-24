@@ -1,0 +1,130 @@
+﻿@model Inventory.Models.ViewModels.CarroComprasVM
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<br />
+@if (TempData["Error"] != null)
+{
+    <div class="alert alert-danger alert-dismissible fade show mt-5" role="alert">
+        <h4>@TempData["Error"]</h4>
+        <button type="button" class="close" data-dismiss="alert"
+                arial-label="Close">
+            <span aria-hidden="true">&times;</span>
+        </button>
+    </div>
+}
+<form method="post">
+    <br />
+    @if (Model.CarroComprasLista.Count() > 0)
+    {
+        <div>
+            <div class="container mt-4">
+                <div class="card">
+                    <div class="card-header bg-dark text-light ml-0 row container">
+                        <div class="col-6">
+                            <i class="fa fa-shopping-cart"></i> &nbsp;
+                            Carro de Compras
+                        </div>
+                        <div class="col-6 text-right">
+                            <a asp-area="Inventario" asp-controller="Home"
+                               asp-action="Index"
+                               class="btn btn-outline-info btn-close-white btn-sm">Seguir Comprando</a>
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        @foreach (var item in Model.CarroComprasLista)
+                        {
+                        <div class="row">
+                           
+                            <div class="d-none d-lg-block col-lg-1 text-center py-2">
+                                <br />
+                                <img src="@item.Producto.ImageUrl" class="rounded" width="100" />
+
+                            </div>
+
+                            <div class="col-12 text-sm-center col-lg-6 text-lg-left">
+
+
+                                <h5><strong> @item.Producto.Descripcion</strong></h5>
+                            </div>
+                            <div class="col-12 text-sm-center col-lg-5 text-lg-right row">
+                                <div class="col-4 text-md-right" style="padding-top:5px;">
+                                    <h6>
+                                        <strong>
+                                            ₡@item.Producto.Precio<span class="text-muted">x</span> @item.Cantidad
+                                        </strong>
+                                    </h6>
+                                </div>
+                                <div class="col-6 col-sm-4 col-lg-6">
+                                    <div class="float-right mx-1">
+                                        <a asp-action="mas" asp-route-carroId="@item.Id"
+                                           class="btn btn-primary">
+                                            <i class="fas fa-plus"></i>
+                                        </a>
+                                    </div>
+                                    <div class="float-right mx-1">
+                                        <a asp-action="menos" asp-route-carroId="@item.Id"
+                                           class="btn btn-danger">
+                                            <i class="fas fa-minus"></i>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="col-2 col-sm-4 col-lg-2 text-right">
+                                    <a asp-action="remover" asp-route-carroId="@item.Id"
+                                       class="btn btn-outline-danger">
+                                        <i class="fas fa-trash"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                            <hr />
+                        }
+
+                        <div class="row">
+                            <div class="col-12 col-md-6 offset-md-6 col-lg-4 offset-lg-8 pr-4">
+                                <ul class="list-group">
+                                    <li class="list-group-item d-flex justify-content-between bg-light">
+
+                                        <samp class="text-info">Total (CR)</samp>
+                                        <strong class="text-info">
+                                            ₡
+                                            <span id="txtTotalOrden">@Model.Orden.TotalOrden</span>
+                                        </strong>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <br />
+                        <br />
+
+                        <br />
+                        <br />
+                        <span class="text-dark">Nuestra tienda de ropa ofrece a nuestros clientes una gama de productos de alta calidad a precios muy competitivos. </span>
+                        <br />
+                        <span class="text-dark">Todos los productos son nuevos y están en perfectas condiciones.  </span>
+                        <br />
+                        <span class="text-dark">Nos esforzamos por ofrecer un servicio excelente a todos nuestros clientes y hacemos todo lo posible para responder a sus consultas y pedidos de manera rápida y eficiente. </span>
+                        <br />
+                        <span class="text-dark">Si no está satisfecho con su compra, por favor, póngase en contacto con nosotros y haremos todo lo posible para solucionar el problema.  </span>
+                        <br />
+                        <span class="text-dark"> Cualquier prenda despachada por nosotros es registrada y autorizada por Gucci International Inc. Gucci se reserva el derecho de cambiar estos términos y condiciones en cualquier momento.  </span>
+                        <br />
+                        <span class="text-dark">Los cambios tendrán efecto inmediato en el momento en que se publiquen en el sitio web. Al utilizar el sitio web después de que se hayan publicado los cambios, usted acepta los términos y condiciones modificados. </span>
+                        <br/>
+                        <INPUT type="checkbox" onclick="ActivarBtn()" id="term">
+                        <span class="text-danger"> Terminos y condiciones </span>
+                    </div>
+                    <div class="card-footer">
+                        <div class="card-footer row">
+                            <div class="col-sm-12 col-lg-4 col-md-6 offset-lg-8 offset-md-6 ">
+                                <a asp-area="Inventario" asp-controller="CarroCompras"
+                                   asp-action="Proceder" class="btn btn-success form-control"> Proceder con la compra</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</form>

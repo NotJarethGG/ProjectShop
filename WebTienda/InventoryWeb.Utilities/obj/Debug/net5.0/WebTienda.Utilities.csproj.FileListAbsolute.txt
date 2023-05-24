@@ -1,0 +1,36 @@
+D:\UNA\Segundo Ciclo 2022\Programacion III\El Mas Funcional - copia (2)\El Mas Funcional - copia (2)\InventoryWeb.Utilities\bin\Debug\net5.0\WebTienda.Utilities.deps.json
+D:\UNA\Segundo Ciclo 2022\Programacion III\El Mas Funcional - copia (2)\El Mas Funcional - copia (2)\InventoryWeb.Utilities\bin\Debug\net5.0\WebTienda.Utilities.dll
+D:\UNA\Segundo Ciclo 2022\Programacion III\El Mas Funcional - copia (2)\El Mas Funcional - copia (2)\InventoryWeb.Utilities\bin\Debug\net5.0\ref\WebTienda.Utilities.dll
+D:\UNA\Segundo Ciclo 2022\Programacion III\El Mas Funcional - copia (2)\El Mas Funcional - copia (2)\InventoryWeb.Utilities\bin\Debug\net5.0\WebTienda.Utilities.pdb
+D:\UNA\Segundo Ciclo 2022\Programacion III\El Mas Funcional - copia (2)\El Mas Funcional - copia (2)\InventoryWeb.Utilities\obj\Debug\net5.0\WebTienda.Utilities.csproj.AssemblyReference.cache
+D:\UNA\Segundo Ciclo 2022\Programacion III\El Mas Funcional - copia (2)\El Mas Funcional - copia (2)\InventoryWeb.Utilities\obj\Debug\net5.0\WebTienda.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNA\Segundo Ciclo 2022\Programacion III\El Mas Funcional - copia (2)\El Mas Funcional - copia (2)\InventoryWeb.Utilities\obj\Debug\net5.0\WebTienda.Utilities.AssemblyInfoInputs.cache
+D:\UNA\Segundo Ciclo 2022\Programacion III\El Mas Funcional - copia (2)\El Mas Funcional - copia (2)\InventoryWeb.Utilities\obj\Debug\net5.0\WebTienda.Utilities.AssemblyInfo.cs
+D:\UNA\Segundo Ciclo 2022\Programacion III\El Mas Funcional - copia (2)\El Mas Funcional - copia (2)\InventoryWeb.Utilities\obj\Debug\net5.0\WebTienda.Utilities.csproj.CoreCompileInputs.cache
+D:\UNA\Segundo Ciclo 2022\Programacion III\El Mas Funcional - copia (2)\El Mas Funcional - copia (2)\InventoryWeb.Utilities\obj\Debug\net5.0\WebTienda.Utilities.dll
+D:\UNA\Segundo Ciclo 2022\Programacion III\El Mas Funcional - copia (2)\El Mas Funcional - copia (2)\InventoryWeb.Utilities\obj\Debug\net5.0\ref\WebTienda.Utilities.dll
+D:\UNA\Segundo Ciclo 2022\Programacion III\El Mas Funcional - copia (2)\El Mas Funcional - copia (2)\InventoryWeb.Utilities\obj\Debug\net5.0\WebTienda.Utilities.pdb
+D:\UNA\Segundo Ciclo 2022\Programacion III\Proyecto Final Tienda\WebTienda\InventoryWeb.Utilities\bin\Debug\net5.0\WebTienda.Utilities.deps.json
+D:\UNA\Segundo Ciclo 2022\Programacion III\Proyecto Final Tienda\WebTienda\InventoryWeb.Utilities\bin\Debug\net5.0\WebTienda.Utilities.dll
+D:\UNA\Segundo Ciclo 2022\Programacion III\Proyecto Final Tienda\WebTienda\InventoryWeb.Utilities\bin\Debug\net5.0\ref\WebTienda.Utilities.dll
+D:\UNA\Segundo Ciclo 2022\Programacion III\Proyecto Final Tienda\WebTienda\InventoryWeb.Utilities\bin\Debug\net5.0\WebTienda.Utilities.pdb
+D:\UNA\Segundo Ciclo 2022\Programacion III\Proyecto Final Tienda\WebTienda\InventoryWeb.Utilities\obj\Debug\net5.0\WebTienda.Utilities.csproj.AssemblyReference.cache
+D:\UNA\Segundo Ciclo 2022\Programacion III\Proyecto Final Tienda\WebTienda\InventoryWeb.Utilities\obj\Debug\net5.0\WebTienda.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNA\Segundo Ciclo 2022\Programacion III\Proyecto Final Tienda\WebTienda\InventoryWeb.Utilities\obj\Debug\net5.0\WebTienda.Utilities.AssemblyInfoInputs.cache
+D:\UNA\Segundo Ciclo 2022\Programacion III\Proyecto Final Tienda\WebTienda\InventoryWeb.Utilities\obj\Debug\net5.0\WebTienda.Utilities.AssemblyInfo.cs
+D:\UNA\Segundo Ciclo 2022\Programacion III\Proyecto Final Tienda\WebTienda\InventoryWeb.Utilities\obj\Debug\net5.0\WebTienda.Utilities.csproj.CoreCompileInputs.cache
+D:\UNA\Segundo Ciclo 2022\Programacion III\Proyecto Final Tienda\WebTienda\InventoryWeb.Utilities\obj\Debug\net5.0\WebTienda.Utilities.dll
+D:\UNA\Segundo Ciclo 2022\Programacion III\Proyecto Final Tienda\WebTienda\InventoryWeb.Utilities\obj\Debug\net5.0\ref\WebTienda.Utilities.dll
+D:\UNA\Segundo Ciclo 2022\Programacion III\Proyecto Final Tienda\WebTienda\InventoryWeb.Utilities\obj\Debug\net5.0\WebTienda.Utilities.pdb
+C:\Users\morag\Escritorio\Proyecto Final Tienda\WebTienda\InventoryWeb.Utilities\bin\Debug\net5.0\WebTienda.Utilities.deps.json
+C:\Users\morag\Escritorio\Proyecto Final Tienda\WebTienda\InventoryWeb.Utilities\bin\Debug\net5.0\WebTienda.Utilities.dll
+C:\Users\morag\Escritorio\Proyecto Final Tienda\WebTienda\InventoryWeb.Utilities\bin\Debug\net5.0\WebTienda.Utilities.pdb
+C:\Users\morag\Escritorio\Proyecto Final Tienda\WebTienda\InventoryWeb.Utilities\obj\Debug\net5.0\WebTienda.Utilities.csproj.AssemblyReference.cache
+C:\Users\morag\Escritorio\Proyecto Final Tienda\WebTienda\InventoryWeb.Utilities\obj\Debug\net5.0\WebTienda.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morag\Escritorio\Proyecto Final Tienda\WebTienda\InventoryWeb.Utilities\obj\Debug\net5.0\WebTienda.Utilities.AssemblyInfoInputs.cache
+C:\Users\morag\Escritorio\Proyecto Final Tienda\WebTienda\InventoryWeb.Utilities\obj\Debug\net5.0\WebTienda.Utilities.AssemblyInfo.cs
+C:\Users\morag\Escritorio\Proyecto Final Tienda\WebTienda\InventoryWeb.Utilities\obj\Debug\net5.0\WebTienda.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\morag\Escritorio\Proyecto Final Tienda\WebTienda\InventoryWeb.Utilities\obj\Debug\net5.0\WebTienda.Utilities.dll
+C:\Users\morag\Escritorio\Proyecto Final Tienda\WebTienda\InventoryWeb.Utilities\obj\Debug\net5.0\refint\WebTienda.Utilities.dll
+C:\Users\morag\Escritorio\Proyecto Final Tienda\WebTienda\InventoryWeb.Utilities\obj\Debug\net5.0\WebTienda.Utilities.pdb
+C:\Users\morag\Escritorio\Proyecto Final Tienda\WebTienda\InventoryWeb.Utilities\obj\Debug\net5.0\ref\WebTienda.Utilities.dll
